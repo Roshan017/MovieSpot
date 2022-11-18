@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviespot/static/css/main.c44cf937.css",
+    "main.js": "/moviespot/static/js/main.785ed13d.js",
+    "index.html": "/moviespot/index.html",
+    "static/media/search.svg": "/moviespot/static/media/search.c70416dc9882dba0e895ce98cbb9f216.svg",
+    "main.c44cf937.css.map": "/moviespot/static/css/main.c44cf937.css.map",
+    "main.785ed13d.js.map": "/moviespot/static/js/main.785ed13d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44cf937.css",
+    "static/js/main.785ed13d.js"
+  ]
+}
